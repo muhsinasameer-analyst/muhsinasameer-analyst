@@ -1,20 +1,60 @@
-👋 Hi, I'm Muhsina Sameer
+## 👩‍💻 Muhsina Sameer – Data Analyst Portfolio
 
-Aspiring Junior Data Analyst with strong hands-on skills in Excel, SQL, and Tableau.  
-I enjoy working with data to uncover insights, solve problems, and support business decisions.
+Welcome to my data analytics portfolio. I am a beginner data analyst with hands-on experience in Excel, SQL, and Python, focused on extracting insights from data and supporting business decision-making.
 
-Technical Skills
-- Excel: Pivot Tables, Power Query, Dashboards, Advanced Formulas
-- SQL: Joins, CTEs, Subqueries, Window Functions, Data Cleaning
-- Tableau: Interactive Dashboards, KPIs, Filters
-- Data Analysis, Reporting, Visualization
+---
 
-Projects
-- Global Superstore Analysis (Tableau, Excel)
-- E-commerce Data Analysis (SQL, Excel)
+## 🛠️ Skills
+
+- Excel (Data Cleaning, Pivot Tables, Analysis)
+- SQL (Joins, Aggregations, CASE statements)
+- Python (Pandas, Data Analysis)
+- Data Visualization (Tableau)
+
+---
+
+## 📊 Projects
+
+### 1. 📊 Global Superstore Sales Analysis  
+- Analyzed sales and profit trends  
+- Identified top-performing regions and categories  
+- Built interactive dashboard in Tableau  
+
+📄 [View Project](Global_Superstore_Project.md)
+
+---
+
+### 2. 🛒 E-commerce Data Analysis  
+- Performed sales and customer analysis  
+- Identified key product and customer insights  
+- Analyzed trends and purchasing patterns  
+
+📄 [View Project](Ecommerce_Project.md)
+
+---
+
+### 3. 📈 Sales Data Analysis (Excel + SQL + Python) 🔥  
+- Calculated total sales (23030)  
+- Identified top-selling product (Laptop)  
+- Found highest spending customer (C003)  
+- Performed analysis using Excel, SQL queries, and Python Pandas  
+
+---
+
+### 4. 👥 Customer Segmentation (SQL + Python) 🔥  
+- Grouped customers based on total spending  
+- Classified customers into High, Medium, and Low categories  
+- Identified high-value customers contributing most revenue  
+- Used SQL CASE statements and Python functions  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: muhsinasameer2001@gmail.com  
+- 🔗 LinkedIn: www.linkedin.com/in/muhsina-data-analyst  
 
 
-Career Goal
 Seeking an entry-level Data Analyst role where I can grow professionally and contribute meaningful insights.
 
 Contact
