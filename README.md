@@ -20,7 +20,7 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Identified top-performing regions and categories  
 - Built interactive dashboard in Tableau  
 
-📄 [View Project](Global_Superstore_Project.md)
+📄 [View Project]([Global_Superstore_Project.md](https://github.com/muhsinasameer-analyst/sales-data-analysis))
 
 ---
 
