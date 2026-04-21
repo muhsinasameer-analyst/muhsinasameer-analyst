@@ -20,7 +20,7 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Identified top-performing regions and categories  
 - Built interactive dashboard in Tableau  
 
-📄 [View Project]([https://github.com/muhsinasameer-analyst/sales-data-analysis])
+📄 [View Project](readme.md)
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Identified key product and customer insights  
 - Analyzed trends and purchasing patterns  
 
-📄 [View Project](Ecommerce_Project.md)
+📄 [View Project](readme.md)
 
 ---
 
