@@ -40,6 +40,7 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Performed analysis using Excel, SQL queries, and Python Pandas  
 
 📄 [View Project](https://github.com/muhsinasameer-analyst/sales-data-analysis)
+
 ---
 
 ### 4. 👥 Customer Segmentation (SQL + Python) 🔥  
@@ -48,7 +49,7 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Identified high-value customers contributing most revenue  
 - Used SQL CASE statements and Python functions
 
-[View Project](
+📄 [View Project](https://github.com/muhsinasameer-analyst/customer-segmentation)
 
 ---
 
