@@ -45,7 +45,9 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Grouped customers based on total spending  
 - Classified customers into High, Medium, and Low categories  
 - Identified high-value customers contributing most revenue  
-- Used SQL CASE statements and Python functions  
+- Used SQL CASE statements and Python functions
+
+[View Project](
 
 ---
 
@@ -56,7 +58,3 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 
 
 Seeking an entry-level Data Analyst role where I can grow professionally and contribute meaningful insights.
-
-Contact
-Email: muhsinasameer2001@gmail.com  
-LinkedIn: https://www.linkedin.com/in/muhsina-sameer-zahid2024
