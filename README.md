@@ -29,7 +29,7 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Identified key product and customer insights  
 - Analyzed trends and purchasing patterns  
 
-📄 [View Project](readme.md)
+📄 [View Project](https://github.com/muhsinasameer-analyst/ecommerce-sales-analysis)
 
 ---
 
@@ -39,6 +39,7 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Found highest spending customer (C003)  
 - Performed analysis using Excel, SQL queries, and Python Pandas  
 
+📄 [View Project](https://github.com/muhsinasameer-analyst/sales-data-analysis)
 ---
 
 ### 4. 👥 Customer Segmentation (SQL + Python) 🔥  
