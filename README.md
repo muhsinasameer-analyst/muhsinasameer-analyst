@@ -49,7 +49,7 @@ Welcome to my data analytics portfolio. I am a beginner data analyst with hands-
 - Identified high-value customers contributing most revenue  
 - Used SQL CASE statements and Python functions
 
-📄 [View Project](https://github.com/muhsinasameer-analyst/customer-segmentation)
+📄 [View Project](https://github.com/muhsinasameer-analyst/customer-segmentation-analysis)
 
 ---
 
